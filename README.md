@@ -1,2 +1,2 @@
-seanlv.github.io
+http://sean.lv
 ================
